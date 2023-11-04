@@ -4,8 +4,8 @@ PR을 올리기 전에 다음 사항들을 확인해주세요!
 
 - [ ] Git Branch Convention을 준수했다.
 - [ ] Git Commit Message Convention을 준수했다.
-- [ ] PR의 이름을 `close 소유자/레파지토리#이슈번호`의 형식으로 설정했다.
-- [ ] dev branch를 base로 설정하였다.
+- [ ] 관련된 이슈가 있을 경우 PR의 이름을 `close 소유자/레파지토리#이슈번호`의 형식으로 설정했다.
+- [ ] dev branch를 base로 설정했다. (dev는 base를 main으로 설정)
 
 
 ## PR 종류
